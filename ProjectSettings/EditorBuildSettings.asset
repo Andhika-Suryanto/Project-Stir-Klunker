@@ -6,22 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/3rdParty/TDR/Demo/Demo.unity
+    path: Assets/TDR/Demo/Demo.unity
     guid: 7200e15f527e94849899909ba9cb0357
   - enabled: 1
-    path: Assets/3rdParty/TDR/Assets/Scenes/MainMenu/01_MM.unity
+    path: Assets/TDR/Assets/Scenes/MainMenu/01_MM.unity
     guid: c8d28914a55c14b49b428d4baffc9165
   - enabled: 1
-    path: Assets/3rdParty/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIsland.unity
+    path: Assets/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIsland.unity
     guid: f03714adfce131d4fb2bc893602731d1
   - enabled: 1
-    path: Assets/3rdParty/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIslandRevers.unity
+    path: Assets/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIslandRevers.unity
     guid: c36884a94403c1f41bd65342d4951d6f
-  - enabled: 1
-    path: Assets/Scenes/Summer Hill.unity
-    guid: df076ee4f7cf46244b4694ee4e818dc3
-  - enabled: 1
-    path: Assets/Scenes/Menu_TDR_Attempt.unity
-    guid: e3cf095dba3a84f4dbba5520754869bb
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
