@@ -6,16 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TDR/Demo/Demo.unity
-    guid: 7200e15f527e94849899909ba9cb0357
+    path: Assets/Scenes/Menu_Attempt_2.unity
+    guid: a677ad3bcd76cf542ab5ac36e38b7681
   - enabled: 1
-    path: Assets/TDR/Assets/Scenes/MainMenu/01_MM.unity
-    guid: c8d28914a55c14b49b428d4baffc9165
-  - enabled: 1
-    path: Assets/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIsland.unity
-    guid: f03714adfce131d4fb2bc893602731d1
-  - enabled: 1
-    path: Assets/TDR/Assets/Scenes/Tracks/Demo/02_MautikiIslandRevers.unity
-    guid: c36884a94403c1f41bd65342d4951d6f
+    path: Assets/Scenes/Hill Summer Track.unity
+    guid: 2e2ebae25a75d5a4ca75e0ab53fa79b8
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
