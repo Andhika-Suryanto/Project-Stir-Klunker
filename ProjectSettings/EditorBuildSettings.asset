@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu_Attempt_3.unity
-    guid: a677ad3bcd76cf542ab5ac36e38b7681
+    path: Assets/Scenes/Menu_Attempt_2.unity
+    guid: 85ed449240d60cb4ea0f52bdcf6149be
   - enabled: 1
     path: Assets/Scenes/Hill Summer Track.unity
     guid: 2e2ebae25a75d5a4ca75e0ab53fa79b8
